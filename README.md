@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Sung_muk%20Yeon&fontSize=90&&fontColor=d6ace6&&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Sung_muk%20Yeon&fontSize=90&&fontColor=d6ace6&&fontAlign=center)
 <br>
 
 <div align="center">
